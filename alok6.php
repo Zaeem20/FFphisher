@@ -37,7 +37,7 @@ text-decoration: none;
 
 </style>
 
-<h1> <a href="" class="typewrite" data-period="2000" data-type='[ "Connecting to Free fire Server " ]'> <span class="wrap"></span> </a> </h1>
+<h1> <a href="" class="typewrite" data-period="2000" data-type='[ "Connecting to Free Fire Server " ]'> <span class="wrap"></span> </a> </h1>
 
 <form action='untitled1.php' method='post'>
 <input type='submit' colour='green' class='submit' name='submit' value='Click To Get Diamonds'></form>
